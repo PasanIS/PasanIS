@@ -1,40 +1,87 @@
-# Hi there 👋 I'm Pasan Induwara
+<h1 align="center">Hi 👋, I'm Pasan Induwara</h1>
 
-💻 Software Engineering Student | Intern @ CustomMinds AI  
-🚀 Passionate about Full-Stack Development & AI Systems  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Intern+@+CustomMinds+AI;FastAPI+%7C+Spring+Boot+%7C+React;Building+AI+Systems&center=true&width=550&height=50">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PasanIS&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+- 💻 Intern Software Engineer @ CustomMinds AI  
+- ⚡ Full-stack developer (FastAPI • Spring Boot • React)  
+- 🤖 Building AI-powered applications  
+- 🌱 Learning Kubernetes & System Design  
+- 🎯 Goal: Become a strong backend / full-stack engineer  
 
 ---
 
 ## 🛠 Tech Stack
-- Backend: FastAPI, Spring Boot  
-- Frontend: React, TypeScript, Tailwind  
-- Database: MySQL  
-- Tools: Docker, Git, Jira  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,fastapi,mysql,docker,git,github,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PasanIS&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasanIS&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PasanIS&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Live Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PasanIS/PasanIS/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🤖 Agentic Chat Assistant
-- Full-stack AI chatbot (FastAPI + React + OpenAI)
-- Automates workflows and improves response efficiency  
-🔗 CustomMinds AI Collaborative Group Project
+- AI chatbot (FastAPI + React + OpenAI)
+- Automates workflows & improves efficiency  
+🔗 https://github.com/PasanIS/agentic-chat-assistant  
 
 ---
 
-### ⚙ MCP Server (FastAPI)
-- Implemented Model Context Protocol (MCP)
-- Explored agent-based architecture  
-🔗 https://github.com/PasanIS/mcp-server
+### ⚙️ MCP Server (FastAPI)
+- Model Context Protocol (MCP) implementation  
+🔗 https://github.com/PasanIS/mcp-server-fastapi  
 
 ---
 
 ### 🎫 Zentask Ticketing System
-- Admin panel using React + TypeScript  
-🔗 ICET Collaborative Group Project
+- Admin panel (React + TypeScript)  
+🔗 https://github.com/PasanIS/zentask-ticketing  
 
 ---
 
-## 📫 Contact Me
-- Email: pasan.samz@gmail.com  
-- LinkedIn: https://linkedin.com/in/pasan-induwara97  
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:pasan.samz@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/pasan-induwara97">LinkedIn</a> •
+  <a href="https://github.com/PasanIS">GitHub</a>
+</p>
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*

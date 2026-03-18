@@ -55,22 +55,29 @@
 
 ## 📌 Featured Projects
 
-### 🤖 Agentic Chat Assistant
+### 🤖 Agentic Chat Assistant for Restaurant
 - AI chatbot (FastAPI + React + OpenAI)
 - Automates workflows & improves efficiency  
-🔗 https://github.com/PasanIS/agentic-chat-assistant  
-
+🔗 CustomMinds AI Collaborative Group Project
 ---
 
 ### ⚙️ MCP Server (FastAPI)
 - Model Context Protocol (MCP) implementation  
-🔗 https://github.com/PasanIS/mcp-server-fastapi  
+🔗 https://github.com/PasanIS/mcp-server
 
 ---
 
 ### 🎫 Zentask Ticketing System
 - Admin panel (React + TypeScript)  
-🔗 https://github.com/PasanIS/zentask-ticketing  
+🔗 ICET Collaborative Group Project
+ICET Collaborative Group Project
+
+---
+
+### 🤖 Agentic Chat Assistant
+- AI chatbot (FastAPI + React + OpenAI)
+- Automates workflows & improves efficiency 
+🔗 https://github.com/PasanIS/ai-chatbot
 
 ---
 

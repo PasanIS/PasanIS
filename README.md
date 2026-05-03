@@ -85,7 +85,7 @@ ICET Collaborative Group Project
 
 <p align="center">
   <a href="mailto:pasan.samz@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/pasan-induwara97">LinkedIn</a> •
+  <a href="https://linkedin.com/in/pasan-iduwara">LinkedIn</a> •
   <a href="https://github.com/PasanIS">GitHub</a>
 </p>
 
